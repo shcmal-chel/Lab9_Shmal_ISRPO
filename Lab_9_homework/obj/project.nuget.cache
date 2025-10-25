@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Es91qiZ4/A4=",
+  "success": true,
+  "projectFilePath": "H:\\Колледж\\ИСРПО\\Lab_9_homework\\Lab_9_homework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\schma\\.nuget\\packages\\htmlagilitypack\\1.12.4\\htmlagilitypack.1.12.4.nupkg.sha512",
+    "C:\\Users\\schma\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

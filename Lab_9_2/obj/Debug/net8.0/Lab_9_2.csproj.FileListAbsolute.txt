@@ -1,0 +1,14 @@
+D:\Колледж\ИСРПО\Lab_9_2\bin\Debug\net8.0\Lab_9_2.exe
+D:\Колледж\ИСРПО\Lab_9_2\bin\Debug\net8.0\Lab_9_2.deps.json
+D:\Колледж\ИСРПО\Lab_9_2\bin\Debug\net8.0\Lab_9_2.runtimeconfig.json
+D:\Колледж\ИСРПО\Lab_9_2\bin\Debug\net8.0\Lab_9_2.dll
+D:\Колледж\ИСРПО\Lab_9_2\bin\Debug\net8.0\Lab_9_2.pdb
+D:\Колледж\ИСРПО\Lab_9_2\obj\Debug\net8.0\Lab_9_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Колледж\ИСРПО\Lab_9_2\obj\Debug\net8.0\Lab_9_2.AssemblyInfoInputs.cache
+D:\Колледж\ИСРПО\Lab_9_2\obj\Debug\net8.0\Lab_9_2.AssemblyInfo.cs
+D:\Колледж\ИСРПО\Lab_9_2\obj\Debug\net8.0\Lab_9_2.csproj.CoreCompileInputs.cache
+D:\Колледж\ИСРПО\Lab_9_2\obj\Debug\net8.0\Lab_9_2.dll
+D:\Колледж\ИСРПО\Lab_9_2\obj\Debug\net8.0\refint\Lab_9_2.dll
+D:\Колледж\ИСРПО\Lab_9_2\obj\Debug\net8.0\Lab_9_2.pdb
+D:\Колледж\ИСРПО\Lab_9_2\obj\Debug\net8.0\Lab_9_2.genruntimeconfig.cache
+D:\Колледж\ИСРПО\Lab_9_2\obj\Debug\net8.0\ref\Lab_9_2.dll

@@ -1,0 +1,11 @@
+H:\Колледж\ИСРПО\MathLibrary\bin\Debug\net8.0\MathLibrary.deps.json
+H:\Колледж\ИСРПО\MathLibrary\bin\Debug\net8.0\MathLibrary.dll
+H:\Колледж\ИСРПО\MathLibrary\bin\Debug\net8.0\MathLibrary.pdb
+H:\Колледж\ИСРПО\MathLibrary\obj\Debug\net8.0\MathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+H:\Колледж\ИСРПО\MathLibrary\obj\Debug\net8.0\MathLibrary.AssemblyInfoInputs.cache
+H:\Колледж\ИСРПО\MathLibrary\obj\Debug\net8.0\MathLibrary.AssemblyInfo.cs
+H:\Колледж\ИСРПО\MathLibrary\obj\Debug\net8.0\MathLibrary.csproj.CoreCompileInputs.cache
+H:\Колледж\ИСРПО\MathLibrary\obj\Debug\net8.0\MathLibrary.dll
+H:\Колледж\ИСРПО\MathLibrary\obj\Debug\net8.0\refint\MathLibrary.dll
+H:\Колледж\ИСРПО\MathLibrary\obj\Debug\net8.0\MathLibrary.pdb
+H:\Колледж\ИСРПО\MathLibrary\obj\Debug\net8.0\ref\MathLibrary.dll
